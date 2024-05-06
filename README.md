@@ -17,7 +17,8 @@ it a mini project in my learning stage
 | No.  | Project                   | Progress                                                                                                              | Link                                                                                                                                                               |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | 1  | Google Translator   | GUI-Based Process with Google Translate Bot                            | [Repo](https://github.com/Amit72777/mini-projects/blob/main/googletrasnlater.py)                                                |
-| 2  | Turtle Race Game    |  Turtle Race Game: Bet, Race, Win/Loss                           | [Repo](https://github.com/Amit72777/mini-projects/blob/main/Turtle_race.py)                                                |
+| 2  | Turtle Race Game    |  Turtle Race Game: Bet, Race, Win/Loss  🐢                           | [Repo](https://github.com/Amit72777/mini-projects/blob/main/Turtle_race.py)                                                |
+| 3  | Snake  Game    |                      Snake game implemented using OOP & Turtles 🐢      | [Repo](https://github.com/Amit72777/mini-projects/tree/main/SnakeGame)                                                |
 
 ## Google Translators Project 
 Install Google Translator API using this command 
