@@ -19,6 +19,7 @@ it a mini project in my learning stage
 | 1  | Google Translator   | GUI-Based Process with Google Translate Bot                            | [Repo](https://github.com/Amit72777/mini-projects/blob/main/googletrasnlater.py)                                                |
 | 2  | Turtle Race Game    |  Turtle Race Game: Bet, Race, Win/Loss  🐢                           | [Repo](https://github.com/Amit72777/mini-projects/blob/main/Turtle_race.py)                                                |
 | 3  | Snake  Game    |                      Snake game implemented using OOP & Turtles 🐢      | [Repo](https://github.com/Amit72777/mini-projects/tree/main/SnakeGame)                                                |
+| 4  | Love Purposal  |        100 % sucessful Love Purposal Application    💖💝                     | [Repo](https://github.com/Amit72777/mini-projects/tree/main/LovePurposol)                                         | 
 
 ## Google Translators Project 
 Install Google Translator API using this command 
@@ -26,3 +27,9 @@ Install Google Translator API using this command
  ```
  pip install googletrans==4.0.0-rc1
  ```
+
+## Love Purposal Project 
+Instal Pillow (PIL) Library using this command 
+```
+pip install Pillow
+```
