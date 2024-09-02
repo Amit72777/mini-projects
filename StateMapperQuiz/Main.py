@@ -25,7 +25,8 @@ def quiz_game():
     cnt = 0
     while cnt <= 29:
         try:
-            gess_state = screen.textinput(title=f"({cnt}/30) Answer Submission",
+            # input gesss state
+            gess_state = screen.textinput(title=f"({cnt}/30)Submission",
                                           prompt="Enter the state name").title().strip()
             gess_state = gess_state.strip()
         except:
@@ -64,16 +65,13 @@ def exit_game():
 
 
 tom = Turtle()
+tom.tilte("StateMapperQuiz")
 screen = Screen()
 
 screen.listen()
 
 screen.addshape("Map.gif")
 tom.shape("Map.gif")
-
-
-def findpos(x,y):
-    print(x,y)
 
 
 # Set up tkinter and buttons
@@ -85,5 +83,4 @@ start_button.pack(side=tkinter.LEFT, padx=20, pady=20)
 exit_button = tkinter.Button(tk_root, text="Exit", command=exit_game)
 exit_button.pack(side=tkinter.LEFT, padx=20, pady=20)
 
-screen.onclick(findpos)
 screen.mainloop()
