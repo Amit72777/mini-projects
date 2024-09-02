@@ -21,6 +21,7 @@ it a mini project in my learning stage
 | 3  | Snake  Game    |                      Snake game implemented using OOP & Turtles 🐢      | [Repo](https://github.com/Amit72777/mini-projects/tree/main/SnakeGame)                                                |
 | 4  | Love Purposal  |        100 % sucessful Love Purposal Application    💖💝                     | [Repo](https://github.com/Amit72777/mini-projects/tree/main/LovePurposol)                                         | 
 | 5  | Password Manager  |        Securely store and manage passwords.🔒                    | [Repo](https://github.com/Amit72777/mini-projects/tree/main/PasswordManager)                                         | 
+| 6  | StateMapper Quiz  |        MapQuest: India State name🗺️                    | [Repo](https://github.com/Amit72777/mini-projects/tree/main/StateMapperQuiz)                                         | 
 
 ## Google Translators Project 
 Install Google Translator API using this command 
@@ -34,9 +35,17 @@ Instal Pillow (PIL) Library using this command
 ```
 pip install Pillow
 ```
+
 ## Password Manager
 Install pyperclip library using this command 
 ```
 pip install pyperclip
 ```
 In this project we  can use pyperclip to copy and paste text to and from our clipboard.
+
+## StateMapper Quiz
+Install pandas library using this command 
+```
+pip install pandas
+```
+Pandas is a powerful Python library used for data manipulation and analysis, offering data structures like DataFrame and Series for handling structured data efficiently.
